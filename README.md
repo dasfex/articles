@@ -1,2 +1,3 @@
 # articles
-My articles which I don't want to store on telegra.ph, cause its kinda shitty. 
+
+1. [Военный синус: когда C++ показывает свой характер](sin.md).
